@@ -1,0 +1,16 @@
+gdown
+tqdm
+torch
+transformers
+datasets
+peft
+bitsandbytes
+einops
+sentencepiece
+accelerate
+protobuf
+evaluate
+deepspeed
+wandb
+scipy
+gradio
