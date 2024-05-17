@@ -1,7 +1,7 @@
 MODEL_NAME_OR_PATH="google/mt5-large"
-HF_TOKEN='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'
-DATASET_NAME_TRAIN="presencesw/hash_v5"
-DATASET_NAME_VALIDATION=presencesw/phomt_eval
+HF_TOKEN='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'
+DATASET_NAME_TRAIN="wanhin/PhoMT_rule"
+DATASET_NAME_VALIDATION=wanhin/pubmed0.00001_rule0.1
 OUTPUT_DIR='outputs_V5'
 SAVE_DIR='model_v5'
 BZ=3
